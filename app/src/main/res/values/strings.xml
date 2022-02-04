@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleTodo</string>
+    <string name="take_tasks">Enter a new task!</string>
+    <string name="add_task">Add Task</string>
+    <string name="clear_tasks">Clear</string>
+    <string name="save_task">SAVE TASK</string>
+</resources>
